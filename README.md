@@ -89,10 +89,4 @@ Other contributions are welcome! If you have any ideas or suggestions to improve
 
 ## License 
 
-This project is licensed under the [MIT License](https://github.com/tensign1444/DroneFireDetection/blob/master/LICENSE). for having his pretrained fire detection model open source. Thank you to Professor Tallman for teaching us about Yolo and how to programatically fly drones. Thank you to CUI for providing the drones and Raspberry pi's.
-
-Other contributions are welcome! If you have any ideas or suggestions to improve the Drone Fire Detection system, please open an issue or create a pull request.
-
-## License 
-
 This project is licensed under the [MIT License](https://github.com/tensign1444/DroneFireDetection/blob/master/LICENSE).

@@ -70,7 +70,7 @@ class VideoPlayer(QDialog):
         """
         try:
             self.server_socket = socket.socket()
-            self.server_socket.bind(('192.168.1.7', 8000))  # 192.168.1.8
+            self.server_socket.bind(('LOCAL MACHINE IP', 8000))  # 192.168.1.8
             self.server_socket.listen(0)
             self.connection = self.server_socket.accept()[0].makefile('rb')
             self.timer.start(1)

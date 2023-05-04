@@ -44,7 +44,7 @@ class FireDetector:
         detections = self.detect(image)
         return len(detections) > 0
 
-model_path = 'models/best.pt'
+"""model_path = 'models/best.pt'
 
 fire_detector = FireDetector(model_path)
 cap = cv2.VideoCapture('input.mp4')
@@ -60,4 +60,4 @@ while cap.isOpened():
         break
 
 cap.release()
-cv2.destroyAllWindows()
+cv2.destroyAllWindows()"""
